@@ -245,26 +245,6 @@ Xem file [test/TEST_CASES.md](test/TEST_CASES.md) để biết chi tiết 10 tes
 
 Xem file [docs/class-diagram.puml](docs/class-diagram.puml) để xem sơ đồ lớp chi tiết.
 
-## Phân công công việc (3 thành viên)
-
-### Thành viên A: Domain Models & Logic
-- Thiết kế các class model với kế thừa/đa hình
-- Implement tính điểm thành phần, điểm tổng kết, GPA
-- Xếp loại học lực
-
-### Thành viên B: Storage Layer
-- CSV readers/writers
-- Repository pattern cho từng entity
-- Import/export, validation
-- Tạo dữ liệu mẫu
-
-### Thành viên C: CLI & Reports
-- Menu system
-- Nhập/sửa/xem điểm
-- Bảng xếp hạng
-- Thống kê & báo cáo
-- Tính năng nâng cao (histogram, fuzzy search, filter)
-
 ## Điểm nổi bật
 
 1. **Thiết kế OOP chuẩn**: Sử dụng kế thừa, đa hình, abstract class, interface
@@ -293,4 +273,5 @@ Xem file [docs/class-diagram.puml](docs/class-diagram.puml) để xem sơ đồ 
 
 **Môn học**: Lập trình Hướng Đối Tượng (OOP)  
 **Đề tài**: 3 - Quản lý điểm và bảng xếp hạng sinh viên
+
 
