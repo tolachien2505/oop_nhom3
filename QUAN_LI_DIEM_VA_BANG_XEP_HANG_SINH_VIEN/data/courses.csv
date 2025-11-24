@@ -1,0 +1,11 @@
+MaHocPhan,TenHocPhan,SoTinChi,MaGiangVien,TrongSoQuiz,TrongSoGiuaKy,TrongSoCuoiKy,TrongSoBaiTap
+HP001,Lap trinh huong doi tuong,4,GV001,0.1,0.2,0.5,0.2
+HP002,Cau truc du lieu va giai thuat,4,GV002,0.1,0.2,0.5,0.2
+HP003,Co so du lieu,3,GV003,0.1,0.2,0.5,0.2
+HP004,Mang may tinh,3,GV001,0.1,0.2,0.5,0.2
+HP005,He dieu hanh,3,GV002,0.1,0.2,0.5,0.2
+HP006,Toan cao cap A1,4,GV005,0.1,0.3,0.5,0.1
+HP007,Vat ly dai cuong A1,3,GV004,0.1,0.2,0.6,0.1
+HP008,Co hoc ky thuat,3,GV006,0.1,0.2,0.5,0.2
+HP009,Ky thuat dien,3,GV004,0.1,0.2,0.5,0.2
+HP010,Thiet ke he thong nhung,3,GV007,0.1,0.2,0.5,0.2
